@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="47px" viewBox="0 0 22 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>flecha-left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PUN-PUN-PUN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="llegada" transform="translate(-16.000000, -279.000000)" stroke="#FFB134" stroke-width="2">
+            <polyline id="flecha-left" transform="translate(27.000000, 302.500000) scale(-1, 1) translate(-27.000000, -302.500000) " points="17 280 37 303.877551 17 325"></polyline>
+        </g>
+    </g>
+</svg>

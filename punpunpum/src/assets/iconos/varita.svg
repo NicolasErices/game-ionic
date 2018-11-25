@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>varita</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PUN-PUN-PUN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Llegada-canjear" transform="translate(-291.000000, -32.000000)">
+            <g id="varita" transform="translate(291.000000, 32.000000)">
+                <path d="M11.4036563,11.4036563 L23.5341797,23.5341797" id="Line-6" stroke="#D9EFFF" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M6.90433558,6.90437739 L8.59566442,8.59570623" id="Line-6" stroke="#D9EFFF" stroke-width="3" stroke-linecap="square"></path>
+                <circle id="Oval" fill="#D9EFFF" cx="3" cy="14" r="1"></circle>
+                <circle id="Oval-Copy-3" fill="#D9EFFF" cx="1.59566442" cy="8.5" r="1.5"></circle>
+                <circle id="Oval-Copy-2" fill="#D9EFFF" cx="14" cy="3" r="1"></circle>
+                <path d="M2.76604444,2.64278761 L2.7156531,3.06681191" id="Line" stroke="#D9EFFF" stroke-width="2" stroke-linecap="round" transform="translate(2.766044, 2.642788) rotate(-40.000000) translate(-2.766044, -2.642788) "></path>
+                <circle id="Oval-Copy-4" fill="#D9EFFF" cx="8.59566442" cy="1.5" r="1.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

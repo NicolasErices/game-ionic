@@ -1,41 +1,39 @@
 <div class="header-home">
-    <div class="configuracion">
-      <img src="../../assets/iconos/settings.svg" alt="">
-    </div>
-    <div class="puntos">
-      <p class="puntos-numeros">00000</p>
-      <img src="../../assets/iconos/carita.svg" alt="" class="puntos-img">
-    </div>
-    <div class="varitas">
-      <div class="varitas-contador">
-        <img src="../../assets/iconos/varita.svg" alt="">
-        <span>x00</span>
-      </div>
+  <div class="configuracion">
+    <img src="../../assets/iconos/settings.svg" alt="">
+  </div>
+  <div class="puntos">
+    <p class="puntos-numeros">00000</p>
+    <img src="../../assets/iconos/carita.svg" alt="" class="puntos-img">
+  </div>
+  <div class="varitas">
+    <div class="varitas-contador">
+      <img src="../../assets/iconos/varita.svg" alt="">
+      <span>x00</span>
     </div>
   </div>
-  
+</div>
+
 <ion-slides #slides>
   <ion-slide>
     <div class="green">
       <img src="../../assets/iconos/hand.svg" alt="">
     </div>
   </ion-slide>
-
   <ion-slide>
-      <div class="red">
-          <img src="../../assets/iconos/hand.svg" alt="">
-          
-      </div>
+    <div class="red" style="width: 200px">
+      <img src="../../assets/iconos/hand.svg" alt="">
+    </div>
   </ion-slide>
 </ion-slides>
 <button type="submit" (click)="prev()" class="arow-left">
   <img src="../../assets/iconos/flecha-left.svg" alt="">
 </button>
 <button type="submit" (click)="next()" class="arow-right">
-    <img src="../../assets/iconos/flecha-right.svg" alt="">
+  <img src="../../assets/iconos/flecha-right.svg" alt="">
 </button>
 
 <footer class="footer-select-hand">
   <img src="../../assets/iconos/filete.svg" alt="" class="filete">
-  <button class="jugar">JUGAR</button>
+  <button class="jugar" (click)="jugar()">JUGAR</button>
 </footer>

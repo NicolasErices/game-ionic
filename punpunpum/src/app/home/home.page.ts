@@ -1,4 +1,5 @@
 import { Component, ViewChild } from '@angular/core';
+import { Router } from '@angular/router';
 
 
 @Component({
@@ -8,12 +9,18 @@ import { Component, ViewChild } from '@angular/core';
 })
 export class HomePage {
   @ViewChild('slides') slides;
-  constructor() {}
+  constructor(private router: Router) {}
+  //controles del slider
   next() {
     console.log(this.slides)
     this.slides.slideNext();
   }
   prev() {
     this.slides.slidePrev();
+  }
+
+  //boton de navegar
+  jugar(){
+    this.router.navigate(['power'])
   }
 }
